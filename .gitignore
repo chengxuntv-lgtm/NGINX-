@@ -1,5 +1,0 @@
-# 忽略系統檔案與日誌
-.DS_Store
-*.log
-*.swp
-.vscode/
